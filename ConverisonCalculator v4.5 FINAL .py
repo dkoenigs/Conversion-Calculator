@@ -1,5 +1,5 @@
-from tkinter import* #import Tkinter
-from tkinter import ttk #import Theme
+from Tkinter import* #import Tkinter
+import ttk #import Theme
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< CALCULATION_DICTIONARY
 global conversion_dictionary #Global conversion dictionary
 conversion_dictionary = {'aa':1,'ab':0.1,'ac':0.001,'ad':0.000001,'ae':0.03937008,'af':0.00328084,'ag':0.00109361,'ah':0.00000062,
