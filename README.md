@@ -3,4 +3,8 @@
 
 A GUI conversion calculator written in Python using TKinter.
 
-ConversionCalculator.png
+![alt text][image]
+
+[image]: https://github.com/dkoenigs/Conversion-Calculator/blob/master/ConversionCalculator.png "Conversion Calculator"
+
+
