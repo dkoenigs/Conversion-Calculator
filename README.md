@@ -5,9 +5,9 @@ _A GUI conversion calculator written in Python using TKinter._
 \
 \
 Conversion Units:
-* Length: Milimeter, Centimeter, Meter, Kilometer, Inch, Foot, Yard, Mile
+* Length: Millimeter, Centimeter, Meter, Kilometer, Inch, Foot, Yard, Mile
 * Weight: Kilogram, Pound, Ounce, Gram, Short Ton, Long Ton, Metric Ton
-* Temperatrue: Celcius, Fahrenheit, Kelvin
+* Temperature: Celcius, Fahrenheit, Kelvin
 
 Functionality:
 * Error handling for incorrect input type and incorrect input range
